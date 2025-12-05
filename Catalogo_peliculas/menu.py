@@ -4,8 +4,10 @@ opcion = None
 while opcion != 4:
     try:
         print('''
-    ------ Menu---------
-    1.- Agregar Pelicula
+    ---------------------
+        BIENVENIDO 
+    ------ Menu----------
+    1.- Agregar Pelicula1
     2.- Eliminar pelicula
     3.- Mostra listado de pelicula
     4.- Salir
