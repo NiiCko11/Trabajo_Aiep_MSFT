@@ -7,9 +7,12 @@ while opcion != 4:
     ---------------------
         BIENVENIDO 
     ------ Menu----------
-    1.- Agregar Pelicula1
+    1.- Agregar Pelicula
+            
     2.- Eliminar pelicula
+            
     3.- Mostra listado de pelicula
+            
     4.- Salir
     ---------------------''')
         opcion = int(input('Ingresa una opcion (1-4): '))
