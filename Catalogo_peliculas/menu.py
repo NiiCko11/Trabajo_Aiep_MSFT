@@ -5,7 +5,7 @@ while opcion != 4:
     try:
         print('''
     ---------------------
-        . BIENVENIDO. 
+     . BIENVENIDO :) . 
     ------ Menu----------
     1.- Agregar Pelicula
             
