@@ -5,7 +5,7 @@ while opcion != 4:
     try:
         print('''
     ---------------------
-     . BIENVENIDO :) . 
+       ( BIENVENIDO ) 
     ------ Menu----------
     1.- Agregar Pelicula
             
@@ -13,7 +13,7 @@ while opcion != 4:
             
     3.- Mostra listado de pelicula
             
-    4.- Salir de App
+    4.- Salir 
     ---------------------''')
         opcion = int(input('Ingresa una opcion (1-4): '))
 
